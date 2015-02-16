@@ -6,5 +6,6 @@ We can have simple instructions front and center for the user on how to clone an
 
 
 
-Example: git clone https://github.com/Crown-Awards/Demo-Repo.git
-         git checkout <branch name>
+Example:
+*git clone https://github.com/Crown-Awards/Demo-Repo.git
+*git checkout <branch name>
