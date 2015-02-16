@@ -1,0 +1,26 @@
+[2/15/15, 4:13:54 PM] David Brown: You're going to make me write a Python script to calulate the combined size of all those files
+[2/15/15, 4:14:02 PM] Steven Kessler: ahaha
+[2/15/15, 4:14:12 PM] Steven Kessler: THATS JUST jpg's
+[2/15/15, 4:14:17 PM] Steven Kessler: the png one has been running an hour
+[2/15/15, 4:19:37 PM] Steven Kessler: GETTING THERE
+[2/15/15, 4:19:38 PM] Steven Kessler: 594M	./crown-cleanup.git
+[2/15/15, 4:19:52 PM] Steven Kessler: started at exactly 1.8
+[2/15/15, 4:24:51 PM] Steven Kessler: https://gist.githubusercontent.com/stvnksslr/86b736901c4ad028c55c/raw/5263bbf4a8fbcb230e53aa1684fb61c4fd37c665/gistfile1.txt
+[2/15/15, 4:24:58 PM] Steven Kessler: png i think was the deal breaker
+[2/15/15, 4:25:02 PM] Steven Kessler: holy crap
+[2/15/15, 4:43:30 PM] David Brown: Why is it a deal breaker
+[2/15/15, 4:44:38 PM] Steven Kessler: bad wording but thats what was breaking it
+[2/15/15, 4:44:52 PM] Steven Kessler: the remaining chunk seems to be .swf files
+[2/15/15, 4:44:59 PM] Steven Kessler: but we need to rehome those
+[2/15/15, 4:45:04 PM] Steven Kessler: can’t delete them
+[2/15/15, 4:48:41 PM] Steven Kessler: https://bitbucket.org/crownawards/crown-cleanup
+[2/15/15, 4:48:49 PM] Steven Kessler: 209.6 MB
+[2/16/15, 10:08:30 AM] Daniel Pasacrita: http://en.wikipedia.org/wiki/SoftRAM
+[2/16/15, 10:29:09 AM] Steven Kessler: https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md
+[2/16/15, 10:29:18 AM] Steven Kessler: https://github.com/ajoslin/conventional-changelog
+[2/16/15, 10:30:48 AM] Steven Kessler: example
+[2/16/15, 10:30:48 AM] Steven Kessler: https://github.com/ajoslin/conventional-changelog/blob/master/CHANGELOG.md
+[2/16/15, 10:35:23 AM] Steven Kessler: Crown Awards Github Demo
+[2/16/15, 10:35:24 AM] Steven Kessler: https://github.com/orgs/Crown-Awards/dashboard
+[2/16/15, 10:35:33 AM] Steven Kessler: https://github.com/Crown-Awards
+[2/16/15, 10:35:46 AM] Steven Kessler: https://github.com/orgs/Crown-Awards/teams
